@@ -42,7 +42,6 @@ DevOps Engineer with **11+ years of experience in IT**, built on a strong founda
 
 ## 🌍 Open Source & Community
 
-- 🌟 **CNCF Kubestronaut**
 - Actively learning and contributing to **CNCF open-source projects**
 - Share knowledge through documentation, mentoring, and design reviews
 - Working toward **Golden Kubestronaut (target: 2026)** 🥇  
