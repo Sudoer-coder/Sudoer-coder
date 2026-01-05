@@ -67,9 +67,9 @@ DevOps Engineer with **11+ years of experience in IT**, built on a strong founda
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: *(add your LinkedIn URL)*  
+- 💼 LinkedIn: https://www.linkedin.com/in/zaw-ye-ab3300161/
 - 🌍 Location: Bangkok, Thailand  
-- 🧑‍🚀 CNCF Profile: *(add when available)*  
+- 🧑‍🚀 CNCF Profile: N/A 
 
 ---
 
