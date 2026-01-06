@@ -51,7 +51,7 @@ DevOps Engineer with **11+ years of experience in IT**, built on a strong founda
 ## 🏆 Certifications
 
 - 🌟 CNCF Kubestronaut  
-- KCNA • CKAD • CKS • CKA *(as applicable)*  
+- KCNA • KCSA • CKAD • CKA • CKS
 - RHSA • CCNA  
 
 ---
